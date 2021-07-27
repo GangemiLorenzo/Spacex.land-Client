@@ -11,7 +11,7 @@ A Flutter spacex.land client to search for launches.
 - Make sure you have a mobile device on which to install the app connected to your computer.
 - Build and run the project
   ```sh
-  cd Space.land-Client
+  cd Spacex.land-Client
   flutter pub get
   flutter run
   ```
