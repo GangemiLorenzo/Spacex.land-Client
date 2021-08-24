@@ -2,6 +2,8 @@
 
 A Flutter spacex.land client to search for launches.
 
+![In app screenshot](docs/spacex.png)
+
 ## Installation
 
 - Clone the repo

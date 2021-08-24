@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.spacex_land_client">
+    package="lorenzo.gangemi.spacex_land_client">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="Spacex launches"
         android:icon="@mipmap/launcher_icon">
