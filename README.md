@@ -4,6 +4,8 @@ A Flutter spacex.land client to search for launches.
 
 ![In app screenshot](docs/spacex.png)
 
+<a href="https://play.google.com/store/apps/details?id=lorenzo.gangemi.spacex_land_client"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height=100px /></a>
+
 ## Installation
 
 - Clone the repo
